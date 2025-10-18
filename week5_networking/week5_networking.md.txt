@@ -1,0 +1,14 @@
+Week 5 – Networking Fundamentals:-
+
+This week focuses on learning basic networking concepts such as the OSI model, IP addressing, DNS, DHCP, and connectivity testing using PowerShell.
+
+OSI Model Diagram:-
+
+Below is the OSI Model diagram showing all 7 layers, their functions, and examples:
+![OSI Model](osi_model.png)
+
+PowerShell Commands and Screenshots:-
+
+Command 1: Get-NetIPAddress
+Command 2:powershell
+Command 3:Get-NetIPAddress
